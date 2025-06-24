@@ -10423,7 +10423,8 @@
           "scene",
           "movie",
           "studio",
-          "performer"
+          "performer",
+          "tag"
         ],
         "type": "string"
       },
